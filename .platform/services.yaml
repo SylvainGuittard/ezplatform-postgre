@@ -19,6 +19,7 @@
 #            #    privileges:
 #            #        dfs: admin
 
+
 postgresql:
     type: postgresql:11
     # Version 10.1 might be a better option when running Legacy Bridge
